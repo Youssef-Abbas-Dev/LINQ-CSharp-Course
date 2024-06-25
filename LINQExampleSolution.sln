@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectManyExample", "Select
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AggregateMethodsExample", "AggregateMethodsExample\AggregateMethodsExample.csproj", "{3C695E39-499C-4DF9-90E9-70B55B1893E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsMethodExample", "ContainsMethodExample\ContainsMethodExample.csproj", "{C0291B97-DDD6-4785-A363-B395D4541AA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainsMethodExample", "ContainsMethodExample\ContainsMethodExample.csproj", "{C0291B97-DDD6-4785-A363-B395D4541AA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataPartitioning", "DataPartitioning\DataPartitioning.csproj", "{3CDE21DD-E2D5-464E-98C2-668F125B743F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{C0291B97-DDD6-4785-A363-B395D4541AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0291B97-DDD6-4785-A363-B395D4541AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0291B97-DDD6-4785-A363-B395D4541AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CDE21DD-E2D5-464E-98C2-668F125B743F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDE21DD-E2D5-464E-98C2-668F125B743F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDE21DD-E2D5-464E-98C2-668F125B743F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDE21DD-E2D5-464E-98C2-668F125B743F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
