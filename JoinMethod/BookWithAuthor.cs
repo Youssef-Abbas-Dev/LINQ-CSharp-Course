@@ -12,4 +12,12 @@
             return $"BookId: {BookId}, Title: {BookTitle}, Author: {BookAuthor}, Price: ${BookPrice}";
         }
     }
+
+    public class BookWithAuthorGroupJoin
+    {
+        public required int BookId { get; set; }
+        public required string BookTitle { get; set; }
+        public required double BookPrice { get; set; }
+        public required List<Author> Authors { get; set; }
+    }
 }
