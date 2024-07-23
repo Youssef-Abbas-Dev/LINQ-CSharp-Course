@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataPartitioning", "DataPar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqQuaryOperators", "LinqQuaryOperators\LinqQuaryOperators.csproj", "{2158FAA5-6D6B-4C36-A2B3-EE12DF6728AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoinMethod", "JoinMethod\JoinMethod.csproj", "{4816EECF-E946-48E1-B96D-63B38A19DCEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JoinMethod", "JoinMethod\JoinMethod.csproj", "{4816EECF-E946-48E1-B96D-63B38A19DCEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupingExample", "GroupingExample\GroupingExample.csproj", "{B293F761-5A37-424D-893D-4B266EDA72EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{4816EECF-E946-48E1-B96D-63B38A19DCEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4816EECF-E946-48E1-B96D-63B38A19DCEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4816EECF-E946-48E1-B96D-63B38A19DCEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B293F761-5A37-424D-893D-4B266EDA72EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B293F761-5A37-424D-893D-4B266EDA72EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B293F761-5A37-424D-893D-4B266EDA72EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B293F761-5A37-424D-893D-4B266EDA72EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
