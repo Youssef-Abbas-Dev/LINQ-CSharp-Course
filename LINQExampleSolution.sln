@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupingExample", "Grouping
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcatMethodExample", "ConcatMethodExample\ConcatMethodExample.csproj", "{10FDB203-D73C-4934-BA92-6E9AA3049BA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetOperationsExample", "SetOperationsExample\SetOperationsExample.csproj", "{26870A8C-2E53-4B07-8459-F2FE28C5C209}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetOperationsExample", "SetOperationsExample\SetOperationsExample.csproj", "{26870A8C-2E53-4B07-8459-F2FE28C5C209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityOperatorExample", "EqualityOperatorExample\EqualityOperatorExample.csproj", "{B46004D2-452E-4F83-B0E5-561775374F01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{26870A8C-2E53-4B07-8459-F2FE28C5C209}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26870A8C-2E53-4B07-8459-F2FE28C5C209}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26870A8C-2E53-4B07-8459-F2FE28C5C209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46004D2-452E-4F83-B0E5-561775374F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46004D2-452E-4F83-B0E5-561775374F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46004D2-452E-4F83-B0E5-561775374F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46004D2-452E-4F83-B0E5-561775374F01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
